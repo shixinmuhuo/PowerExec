@@ -1,0 +1,5 @@
+﻿[ConditionShellScriptExecutor]
+output=true
+script= ip a 
+timeout=3s
+pattern=127.0.0.1
